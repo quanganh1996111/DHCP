@@ -14,6 +14,8 @@
 
 - [DHCP ACK](https://github.com/quanganh1996111/DHCP/blob/master/DHCP_WireShark/Ph%C3%A2n%20t%C3%ADch%20g%C3%B3i%20tin%20DHCP%20v%E1%BB%9Bi%20WireShark.md#dhcp-ack)
 
+[Tài liệu tham khảo](https://github.com/quanganh1996111/DHCP/blob/master/DHCP_WireShark/Ph%C3%A2n%20t%C3%ADch%20g%C3%B3i%20tin%20DHCP%20v%E1%BB%9Bi%20WireShark.md#t%C3%A0i-li%E1%BB%87u-tham-kh%E1%BA%A3o)
+
 ## 1. Bắt gói tin DHCP bằng WireShark
 
 Để bắt gói tin DHCP bằng WireShark, trước hết ta tiến hành giải phóng IP
