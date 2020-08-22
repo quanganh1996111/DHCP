@@ -1,5 +1,15 @@
 # Tổng quan về DHCP
 
+## Mục lục
+
+[1. Giới thiệu](https://github.com/quanganh1996111/DHCP#1-gi%E1%BB%9Bi-thi%E1%BB%87u)
+
+[2. Khái niệm](https://github.com/quanganh1996111/DHCP#2-kh%C3%A1i-ni%E1%BB%87m)
+
+[3. Nguyên lý hoạt động của DHCP](https://github.com/quanganh1996111/DHCP#3-nguy%C3%AAn-l%C3%BD-ho%E1%BA%A1t-%C4%91%E1%BB%99ng-c%E1%BB%A7a-dhcp)
+
+[Tài liệu tham khảo](https://github.com/quanganh1996111/DHCP#t%C3%A0i-li%E1%BB%87u-tham-kh%E1%BA%A3o)
+
 ## 1. Giới thiệu
 
 DHCP là một giao thức khá là một giao thức phổ biến mà chúng ta hay sử dụng đến để truy cập internet. Hôm nay tôi sẽ giúp mọi người hiểu rõ hơn về DHCP và nguyên lý làm việc của nó ở trong mạng internet.
