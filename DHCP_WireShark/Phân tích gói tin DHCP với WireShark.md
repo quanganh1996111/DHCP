@@ -2,6 +2,18 @@
 
 ## Mục lục
 
+[1. Bắt gói tin DHCP bằng WireShark](https://github.com/quanganh1996111/DHCP/blob/master/DHCP_WireShark/Ph%C3%A2n%20t%C3%ADch%20g%C3%B3i%20tin%20DHCP%20v%E1%BB%9Bi%20WireShark.md#1-b%E1%BA%AFt-g%C3%B3i-tin-dhcp-b%E1%BA%B1ng-wireshark)
+
+[2. Phân tích gói tin DHCP](https://github.com/quanganh1996111/DHCP/blob/master/DHCP_WireShark/Ph%C3%A2n%20t%C3%ADch%20g%C3%B3i%20tin%20DHCP%20v%E1%BB%9Bi%20WireShark.md#2-ph%C3%A2n-t%C3%ADch-g%C3%B3i-tin-dhcp)
+
+- [DHCP DISCOVER](https://github.com/quanganh1996111/DHCP/blob/master/DHCP_WireShark/Ph%C3%A2n%20t%C3%ADch%20g%C3%B3i%20tin%20DHCP%20v%E1%BB%9Bi%20WireShark.md#dhcp-discover)
+
+- [DHCP OFFER](https://github.com/quanganh1996111/DHCP/blob/master/DHCP_WireShark/Ph%C3%A2n%20t%C3%ADch%20g%C3%B3i%20tin%20DHCP%20v%E1%BB%9Bi%20WireShark.md#dhcp-offer)
+
+- [DHCP REQUEST](https://github.com/quanganh1996111/DHCP/blob/master/DHCP_WireShark/Ph%C3%A2n%20t%C3%ADch%20g%C3%B3i%20tin%20DHCP%20v%E1%BB%9Bi%20WireShark.md#dhcp-request)
+
+- [DHCP ACK](https://github.com/quanganh1996111/DHCP/blob/master/DHCP_WireShark/Ph%C3%A2n%20t%C3%ADch%20g%C3%B3i%20tin%20DHCP%20v%E1%BB%9Bi%20WireShark.md#dhcp-ack)
+
 ## 1. Bắt gói tin DHCP bằng WireShark
 
 Để bắt gói tin DHCP bằng WireShark, trước hết ta tiến hành giải phóng IP
@@ -75,3 +87,9 @@ Kết quả nhận được:
 - Message type : 2 - thông điệp phản hồi.
 
 - Các option : Type (ACK), DHCP serverID, IP address Lease Time, Subnet Mark, Router, DNS.
+
+## Tài liệu tham khảo
+
+https://blog.cloud365.vn/ccna/dhcp-tong-quan/
+
+https://github.com/locvx1234/wireshark_DHCP
